@@ -632,6 +632,15 @@ button:active {
 @media only screen and (max-width: 600px) {
     .container-skills > div {
         width: 100%;
+
+       
+    }
+
+    .avatar {
+        width: 100%;
+        background-image: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1IPiUJiP6quJIt9nlLMuBzoC-IDZSbN8pehEEikd3w-WoQ4tDPSd-VZtTg5toSc1ZeNbC6YLrJB5jHcTZA9c-uThMn-9d0k5WKChWw7ZEVx3k_MJzNBZGQCeJnpAabuNH7BllB-ieCIw/s1600/BODOCO+2.jpeg);
+        background-size: 100% 100%;
+        padding: 12px;
     }
 }
 
