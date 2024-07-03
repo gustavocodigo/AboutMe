@@ -179,7 +179,7 @@ function fetchrepos() {
 <img style="position: relative;"class="card-img-top" height=48 src="./assets/faixa.png" alt="Card image cap">
 <div style="font-size: 1.2em; color: white;position: absolute; top: calc(50% - 0.2em); left: 50%; max-width: 90%; transform: translate(-50%,-50%);text-shadow: 2px 0 #fff, -2px 0 #000, 0 2px #000, 0 -2px #000,1px 1px #00, -1px -1px #000, 1px -1px #000, -1px 1px #000;">
 
-<a href="${repo.html_url}">
+<a style="color:white" href="${repo.html_url}">
 ${repo.name}
 </a>
 </div>
